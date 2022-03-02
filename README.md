@@ -1,2 +1,2 @@
 # Astr-glove
-VR gloves made through Tsar-Dev-Collective
+Reach for the stars
