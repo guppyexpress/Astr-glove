@@ -1,0 +1,8 @@
+{
+	"alwaysActivate": true,
+	"name" : "Astr-glove",
+	"directory" : "",
+	"resourceOnly" : false,
+	"prefersUpperDeviceIndices" :  false,
+	"hmd_presence" : []
+}
