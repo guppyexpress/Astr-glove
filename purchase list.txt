@@ -8,6 +8,7 @@ SG90 servo motors for haptics(5x per hand)
 
 https://www.aliexpress.com/item/1005001959789801.html
 
+(FORCE FEEDBACK DOESNT WORK IN GAMES)
 ----------------------------------------------------------------
 
 ESP32 Dev Board
