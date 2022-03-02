@@ -1,0 +1,50 @@
+b10k ohm Potentiometer (5x per hand)
+
+https://www.aliexpress.com/item/33011428749.html
+
+-----------------------------------------------------------------
+
+SG90 servo motors for haptics(5x per hand)
+
+https://www.aliexpress.com/item/1005001959789801.html
+
+----------------------------------------------------------------
+
+ESP32 Dev Board
+ESP32-WROOM-32U (For external antenna)
+
+https://www.aliexpress.com/item/32864722159.html
+
+Arduino Nano works too but need it tethered
+
+https://www.aliexpress.com/item/4000009207563.html
+
+--------------------------------------------------------------
+
+for the rotary springs, (5x per hand) cheap badge wheels
+
+https://www.amazon.com/Retractable-Badge-Reel-Holder-Clip/dp/B0732Z7T8W/ref=sxin_9
+
+--------------------------------------------------------------
+
+Gloves (materials still undecided)
+
+---------------------------------------------------------------
+
+JST connectors, 5 pin JST-XH 2.54mm use on the potentiometers. 
+
+crimping set just incase i dont have one
+
+https://www.amazon.com/Qibaok-Crimping-Ratcheting-Connectors-0-1-0-5mm%C2%B2/dp/B07ZK5F8HP/ref=sr_1_12
+
+--------------------------------------------------------------
+
+5v 2+ amps power source MAH still tbd
+
+--------------------------------------------------------------
+
+TL448K6D-GP-HDK (for steamvr hardware refrences)
+
+https://tundra-labs.com/products/steamvr-tracking-general-purpose-hdk-reference-design-tl448k6d-gp-hdk?variant=39421903536337
+
+--------------------------------------------------------------
