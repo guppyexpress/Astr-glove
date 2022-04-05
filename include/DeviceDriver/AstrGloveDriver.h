@@ -44,3 +44,4 @@ class AstrGloveDeviceDriver : public DeviceDriver {
  private:
   vr::VRInputComponentHandle_t inputComponentHandles_[static_cast<int>(AstrGloveDeviceComponentIndex::_Count)];
 };
+
