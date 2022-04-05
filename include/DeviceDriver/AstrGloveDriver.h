@@ -9,7 +9,7 @@
 #include "Encode/EncodingManager.h"
 #include "openvr_driver.h"
 
-enum class LucidGloveDeviceComponentIndex : int {
+enum class AstrGloveDeviceComponentIndex : int {
   JoyX = 0,
   JoyY,
   JoyBtn,
@@ -28,9 +28,9 @@ enum class LucidGloveDeviceComponentIndex : int {
   _Count
 };
 
-class LucidGloveDeviceDriver : public DeviceDriver {
+class AstrGloveDeviceDriver : public DeviceDriver {
  public:
-  LucidGloveDeviceDriver(
+  AstrGloveDeviceDriver(
       std::unique_ptr<CommunicationManager> communicationManager,
       std::shared_ptr<BoneAnimator> boneAnimator,
       const std::string& serialNumber,
@@ -42,5 +42,5 @@ class LucidGloveDeviceDriver : public DeviceDriver {
   void StoppingDevice() override;
 
  private:
-  vr::VRInputComponentHandle_t inputComponentHandles_[static_cast<int>(LucidGloveDeviceComponentIndex::_Count)];
+  vr::VRInputComponentHandle_t inputComponentHandles_[static_cast<int>(AstrGloveDeviceComponentIndex::_Count)];
 };
